@@ -9,9 +9,9 @@ https://sugoku.onrender.com/board
 Arguments -
 
 Difficulty:
-easy
-medium
-hard
+easy-
+medium-
+hard-
 random
 
 Example: https://sugoku.onrender.com/board?difficulty=easy
