@@ -13,6 +13,5 @@ easy
 medium
 hard
 random
-Example:
 
-https://sugoku.onrender.com/board?difficulty=easy
+Example: https://sugoku.onrender.com/board?difficulty=easy
